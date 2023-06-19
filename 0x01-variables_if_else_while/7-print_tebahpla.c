@@ -9,7 +9,7 @@ int main(void)
 
 	while (n >= 97)
 	{
-		putcahr(n);
+		putchar(n);
 		n--;
 	}
 	putchar('\n');
