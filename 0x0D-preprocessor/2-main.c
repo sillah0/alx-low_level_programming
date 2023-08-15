@@ -1,13 +1,13 @@
 #include <stdio.h>
 
-/*
- * main - prints name of a file
+/**
+ * main - prints name of the file
  *
  * Return: 0
  */
 
 int main(void)
 {
-	printf("compiled from file:%s\n", __FILE__);
+	printf("%s\n", __FILE__);
 	return (0);
 }
