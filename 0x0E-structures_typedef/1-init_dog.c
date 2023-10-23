@@ -6,7 +6,7 @@
  * init_dog - function name
  * @d: ptr to struct dog
  * @name:ptr to chars of the dog name
- * @age - age of the dog
+ * @age: age of the dog
  * @owner: ptr to char owner of the dog
  * Return: NULL
  */
