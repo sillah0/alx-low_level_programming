@@ -2,7 +2,7 @@
 
 /**
  * hash_table_set - add or update a key
- * @h:pointer to hash table
+ * @ht:pointer to hash table
  * @key: key to be added
  * @value: value associated with key
  *
